@@ -34,12 +34,12 @@ class CountdownTimer {
 
 const timer1 = new CountdownTimer({
     selector: '#timer-1',
-    targetDate: new Date('dec 7, 2021'),
+    targetDate: new Date('nov 26, 2021'),
 });
 
 const timer2 = new CountdownTimer({
     selector: '#timer-2',
-    targetDate: new Date('dec 14, 2021'),
+    targetDate: new Date('dec 1, 2021'),
 });
 
 
